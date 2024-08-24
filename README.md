@@ -1,2 +1,4 @@
+# FALL 2024
 # ITMD361
-repository for assignments from ITMD361 - FALL 2024  school year
+repository for lab1 assignment
+
